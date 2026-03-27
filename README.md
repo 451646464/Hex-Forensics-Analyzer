@@ -71,7 +71,7 @@
 
 
 ```
-/screenshots/main.png
+main.png
 ```
 
 ---
